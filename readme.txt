@@ -18,8 +18,4 @@ step 4:
 
 Observe the behavior of the application by interacting with the UI and views.
 
-Step 5:
-
-Please turn on location in your settings to completely check this application.
-
 That's it, enjoy.
