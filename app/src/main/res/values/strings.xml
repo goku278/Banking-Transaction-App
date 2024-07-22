@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banking Transaction App</string>
+    <string name="success">Success</string>
+    <string name="transaction_id">Transaction Id</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="amount">Amount</string>
+    <string name="search">Search</string>
+    <string name="transaction">Transaction</string>
+</resources>
